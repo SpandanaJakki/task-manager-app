@@ -1,0 +1,7 @@
+/Users/spanni/Desktop/Projects/Task Manager App/backend/src/main/java/com/sample/taskmanager/TaskManagerApplication.java
+/Users/spanni/Desktop/Projects/Task Manager App/backend/src/main/java/com/sample/taskmanager/controller/TaskController.java
+/Users/spanni/Desktop/Projects/Task Manager App/backend/src/main/java/com/sample/taskmanager/exception/TaskNotFoundException.java
+/Users/spanni/Desktop/Projects/Task Manager App/backend/src/main/java/com/sample/taskmanager/handler/GlobalExceptionHandler.java
+/Users/spanni/Desktop/Projects/Task Manager App/backend/src/main/java/com/sample/taskmanager/model/Task.java
+/Users/spanni/Desktop/Projects/Task Manager App/backend/src/main/java/com/sample/taskmanager/repository/TaskRepository.java
+/Users/spanni/Desktop/Projects/Task Manager App/backend/src/main/java/com/sample/taskmanager/service/TaskService.java
